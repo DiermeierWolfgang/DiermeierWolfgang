@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DiermeierWolfgang
 - 👀 I’m interested in electrical drives
-- 🌱 I’m currently studying electric mobility an powergrids
+- 🌱 I’m currently studying electric mobility and powergrids
 - 📫 You can reach me here
 
 <!---
