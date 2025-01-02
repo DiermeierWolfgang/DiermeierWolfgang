@@ -1,6 +1,6 @@
 * Hi, I’m @DiermeierWolfgang
 * I’m interested in electrical drives
-* I’m currently studying electric mobility and powergrids at OTH Regensburg
+* I’m currently employed as Expert System Engineer in the development of electric vehicles at AVL Software and Functions
 
 <!---
 DiermeierWolfgang/DiermeierWolfgang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
